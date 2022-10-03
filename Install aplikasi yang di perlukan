@@ -1,6 +1,4 @@
 #!bin/bash/aplikasi.py
  # aplikasi yang akan di install secara otomatis 
  
- print ("apt install git -y
- apt install neofetch 
- apt install gparted -y
+ print ("apt install git /apt install neofetch /apt install gparted -y")
